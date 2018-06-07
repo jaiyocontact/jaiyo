@@ -1,0 +1,12 @@
+figure{
+	border:1px solid black;
+	width: 400px;
+}
+
+img{
+	height: 300px;
+}
+figcaption{
+	margin: auto;
+	border:1px solid black;
+}
